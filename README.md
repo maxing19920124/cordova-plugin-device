@@ -8,9 +8,7 @@
 
 
 ## 2、执行 ionic cordova build android --prod --release 编译项目
-## 3、编译完成后找到platform下android项目
-     <img width="1141" alt="image" src="https://user-images.githubusercontent.com/14306034/187348051-09a8db5e-a349-4a61-888a-8fbfc3dfc122.png">
+## 3、编译完成后找到platform下android项目, 按下图找到这两个文件，用modify文件夹处的两个文件相应的做替换,然后即可使用Android studio运行项目
 
-     
-      按上图找到这两个文件，用modify文件夹处的两个文件相应的做替换
-      然后即可使用Android studio运行项目
+##    <img width="637" alt="image" src="https://user-images.githubusercontent.com/14306034/187348296-f5d15266-df66-475c-a397-3e8b01d11199.png">
+
